@@ -74,13 +74,15 @@ I enjoy crafting **high-performance UIs**, **AI-powered platforms**, and **agent
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-bay-two-98.vercel.app/api?username=Youssefamenallah23&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-bay-two-98.vercel.app/api/top-langs/?username=Youssefamenallah23&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-bay-two-98.vercel.app/api?username=Youssefamenallah23&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssefamenallah23&theme=tokyo-night" />
+</p>
 
 ---
 
