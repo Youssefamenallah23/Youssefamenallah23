@@ -76,9 +76,7 @@ I enjoy crafting **high-performance UIs**, **AI-powered platforms**, and **agent
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-bay-two-98.vercel.app/api?username=Youssefamenallah23&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssefamenallah23&theme=tokyo-night" />
