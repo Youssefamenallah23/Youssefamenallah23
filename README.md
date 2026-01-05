@@ -88,7 +88,7 @@ I enjoy crafting **high-performance UIs**, **AI-powered platforms**, and **agent
 📍 Sousse, Tunisia  
 📧 **youssefamenallah.contact@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/amen-allah-youssef-8685012bb/  
-🌐 **Portfolio:** https://portfolio-youssef-amen-allah.vercel.app/
+🌐 **Portfolio:** https://kinetic-architect-amen.vercel.app/
 
 ---
 
