@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Amen Allah Youssef</h1>
-<h3 align="center">Full Stack Engineer | AI Engineer | RAG & Intelligent Systems Developer</h3>
+<h3 align="center">Full Stack Engineer | AI Engineer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amen-allah-youssef-8685012bb/">
