@@ -1,97 +1,96 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Amen Allah Youssef</h1>
-<h3 align="center">Full Stack Engineer | AI Engineer
-</h3>
+<div align="center">
+  <sub>github / youssefamenallah23</sub>
+  <h1>Amen Allah Youssef</h1>
+  <p><strong>Full Stack & AI Engineer</strong> — I build things that actually ship.<br/>
+  RAG systems · Voice AI · Scalable web apps · Open to remote.</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amen-allah-youssef-8685012bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youssefamenallah.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kinetic-architect-amen.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-allah-youssef-8685012bb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefamenallah.contact@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kinetic-architect-amen.vercel.app/)
+![Location](https://img.shields.io/badge/Sousse,_Tunisia-remote--ready-6B7280?style=flat)
 
-## 🧑‍💻 About Me
-I'm a **Full Stack Engineer** specializing in **AI-driven applications**, **RAG systems**, and **intelligent automation**.  
-I focus on building real-world, scalable applications using **Next.js, TypeScript, Supabase, Vapi, AstraDB, and modern AI tooling**.
-
-I enjoy crafting **high-performance UIs**, **AI-powered platforms**, and **agentic systems**.
+</div>
 
 ---
 
-## 🔧 Tech Stack
+## About
 
-### **Languages**
-`TypeScript` • `JavaScript` • `Python` • `Java` • `SQL`
+I'm a full stack engineer who's drifted deep into the AI space — not just integrating APIs but designing the architectures behind them. I work mainly with **Next.js, TypeScript, and Python**, and I've built production systems around **RAG pipelines, AI voice agents, and real-time automation**.
 
-### **Frontend**
-`React.js` • `Next.js 15` • `Tailwind CSS` • `React Query` • `Zustand` • `GSAP` • `ShadCN`
-
-### **Backend & AI**
-`Node.js` • `Express` • `Supabase` • `Astra DB` • `RAG` • `Gemini API` • `Vapi` • `Sanity CMS`
-
-### **DevOps & Tools**
-`Docker` • `Git` • `CI/CD` • `Agile/Scrum`
+Currently focused on AI-native products. I care about code that's actually maintainable, UIs that don't feel like templates, and systems that hold up past demo day.
 
 ---
 
-## 💼 Experience
+## Stack
 
-### **Mobelite — Software Engineering Intern**  
-📅 *Feb 2025 – Jun 2025*  
-- Built scalable full-stack solutions using **React.js + TypeScript**.  
-- Designed **RAG-based architectures** using **Astra DB + Gemini**.  
-- Achieved **20% faster load times** through frontend optimization.  
-- Actively contributed to Agile workflows and production feature delivery.
-
-### **Freelance — Full Stack & AI Voice Engineer (Call Center)**  
-📅 *Jun 2025 – Oct 2025*  
-- Engineered an **AI-powered cold-calling platform** using **Next.js + Vapi**.  
-- Automated **10,000+ calls monthly** with real-time analytics via Supabase.  
-- Achieved **99.5% uptime** and improved call latency by **40%**.
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Java · SQL |
+| **Frontend** | Next.js 15 · React 19 · Tailwind CSS · ShadCN · GSAP · Zustand · React Query |
+| **Backend & AI** | Node.js · Express · Supabase · AstraDB · RAG · Gemini API · Vapi · LangChain |
+| **Infra & Tools** | Docker · Git · CI/CD · Vercel · Sanity CMS · Clerk · Agile/Scrum |
 
 ---
 
-## 🚀 Projects
+## Experience
 
-### 🎧 **MindCare IA — AI Mental Health Platform**
-- Built using **Next.js 15 + RAG (Gemini + AstraDB)**.  
-- Achieved **92% accuracy** in emotional response generation.  
-- Dynamic content via **Sanity CMS** + authentication via **Clerk**.
+### Software Engineering Intern — Mobelite
+`Feb 2025 – Jun 2025`
 
-### 🏆 **Eb7ath — DevFest Hackathon Winner (1st Place)**
-- Humanitarian platform using **facial recognition**.  
-- Lead frontend developer using **HTML/CSS/JS** + AI recognition APIs.
+- Built full-stack features with React + TypeScript in a production codebase
+- Designed a RAG-based architecture using AstraDB + Gemini API
+- Cut frontend load times 20% through bundle optimization and lazy loading
 
-### 💼 **Startup Pitch Platform**
-- Next.js 15 + React 19 application for virtual pitch competitions.  
-- Fully dynamic content powered by **Sanity CMS**.
+### Freelance — Full Stack & AI Voice Engineer
+`Jun 2025 – Oct 2025` · Remote · Independent
 
----
-
-## 📊 GitHub Insights
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssefamenallah23&theme=tokyo-night" />
-</p>
+- Built an AI cold-calling platform (Next.js + Vapi) for a call center client
+- Automated 10,000+ monthly calls with live analytics dashboards via Supabase
+- Reduced call latency 40% through architecture and infrastructure changes
 
 ---
 
-## 🔗 Connect With Me
-📍 Sousse, Tunisia  
-📧 **youssefamenallah.contact@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/amen-allah-youssef-8685012bb/  
-🌐 **Portfolio:** https://kinetic-architect-amen.vercel.app/
+## Projects
+
+### 🧠 MindCare AI — Mental Health Platform
+Conversational AI therapy assistant. Built a full RAG pipeline with Gemini + AstraDB to generate contextually accurate emotional responses. Auth via Clerk, dynamic content via Sanity CMS.
+
+`Next.js 15` `AstraDB` `Gemini API` `RAG` `Clerk` `Sanity CMS`
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
-<p align="center">If you enjoy my work, feel free to ⭐ one of my repositories.</p>
+### 🏆 Eb7ath — DevFest Hackathon · 1st Place
+Humanitarian platform built under 24 hours at DevFest. Lead frontend developer — used facial recognition APIs to help identify displaced individuals. Won 1st place against teams from across the region.
+
+`HTML/CSS/JS` `Facial Recognition API`
+
+---
+
+### 📞 AI Voice Call Platform — Freelance
+End-to-end AI voice agent system for a call center client. Real-time analytics, 10K+ monthly calls automated. Built solo as a freelance engagement and maintained in production.
+
+`Next.js` `Vapi` `Supabase` `TypeScript`
+
+---
+
+## Currently
+
+Building AI-native tools under [**Novera**](https://github.com/Novera-org) — exploring voice AI and intelligent automation in the open. Looking for remote full-stack or AI engineering roles where I can own real features from day one.
+
+---
+
+## Let's talk
+
+Open to remote jobs, freelance work, or just a good conversation about what you're building.
+
+📧 [youssefamenallah.contact@gmail.com](mailto:youssefamenallah.contact@gmail.com)  
+🔗 [linkedin.com/in/amen-allah-youssef-8685012bb](https://www.linkedin.com/in/amen-allah-youssef-8685012bb/)  
+🌐 [kinetic-architect-amen.vercel.app](https://kinetic-architect-amen.vercel.app/)
+
+---
+
+<sub>// thanks for reading — go look at the repos</sub>
