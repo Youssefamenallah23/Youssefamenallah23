@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-allah-youssef-8685012bb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefamenallah.contact@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kinetic-architect-amen.vercel.app/)
-![Location](https://img.shields.io/badge/Sousse,_Tunisia-remote--ready-6B7280?style=flat)
+<img src="https://img.shields.io/badge/Sousse,_Tunisia-remote--ready-6B7280?style=flat" />
 
 </div>
 
