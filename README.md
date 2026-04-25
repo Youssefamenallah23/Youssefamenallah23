@@ -19,7 +19,7 @@
 
 ## About
 
-I'm a full stack engineer who's drifted deep into the AI space — not just integrating APIs but designing the architectures behind them. I work mainly with **Next.js, TypeScript, and Python**, and I've built production systems around **RAG pipelines, AI voice agents, and real-time automation**.
+I'm a full stack engineer who's drifted deep into the AI space not just integrating APIs but designing the architectures behind them. I work mainly with **Next.js, TypeScript, and Python**, and I've built production systems around **RAG pipelines, AI voice agents, and real-time automation**.
 
 Currently focused on AI-native products. I care about code that's actually maintainable, UIs that don't feel like templates, and systems that hold up past demo day.
 
