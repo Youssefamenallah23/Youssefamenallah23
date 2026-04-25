@@ -29,7 +29,7 @@ Currently focused on AI-native products. I care about code that's actually maint
 
 | | |
 |---|---|
-| **Languages** | TypeScript · JavaScript · Python · Java · SQL |
+| **Languages** | TypeScript · JavaScript · Python  · SQL |
 | **Frontend** | Next.js 15 · React 19 · Tailwind CSS · ShadCN · GSAP · Zustand · React Query |
 | **Backend & AI** | Node.js · Express · Supabase · AstraDB · RAG · Gemini API · Vapi · LangChain |
 | **Infra & Tools** | Docker · Git · CI/CD · Vercel · Sanity CMS · Clerk · Agile/Scrum |
