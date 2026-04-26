@@ -1,6 +1,5 @@
 <!-- HEADER -->
 <div align="center">
-  <sub>github / youssefamenallah23</sub>
   <h1>Amen Allah Youssef</h1>
   <p><strong>Full Stack & AI Engineer</strong> — I build things that actually ship.<br/>
   RAG systems · Voice AI · Scalable web apps · Open to remote.</p>
