@@ -98,10 +98,10 @@ Engineering         FastAPI · Docker · SQL · PostgreSQL · TypeScript
 
 ## Beyond the models
 
-- **AI Engineer, Novera** — AI-powered photo matching with InsightFace and PostgreSQL; LLM integration, agentic workflows, and inference optimization.
+- **Freelance Digital Designer & Web Developer, hospitality clients** — Designing digital menus, landing pages, QR-code experiences, and print-ready materials for cafés; Elama Resto Café in M’saken is the lead client.
+- **AI Engineer, Novera (2026)** — AI-powered photo matching with InsightFace and PostgreSQL; LLM integration, agentic workflows, and inference optimization.
 - **AI Engineering Intern, Mobelite** — Production RAG over 500+ company documents; chunking and embedding experiments evaluated against a precision@5 set.
 - **Freelance AI Engineer** — LLM-powered voice automation handling 10,000+ outbound calls per month at 99.5% uptime.
-- **Freelance Digital Designer, Elama Resto Café** — Digitized menus, created landing-page content and QR materials, and prepared print-ready assets.
 
 ---
 
