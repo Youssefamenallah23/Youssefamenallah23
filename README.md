@@ -96,13 +96,6 @@ Model development   PyTorch · JAX/Flax · Transformers · LoRA · SFT · PPO ·
 Engineering         FastAPI · Docker · SQL · PostgreSQL · TypeScript
 ```
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssefamenallah23&show_icons=true&hide_border=true&bg_color=00000000&title_color=709a7d&text_color=858585&icon_color=709a7d" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefamenallah23&hide_border=true&background=00000000&ring=709a7d&fire=709a7d&currStreakLabel=709a7d&sideLabels=858585&dates=858585" height="165" alt="GitHub contribution streak" />
-</p>
-
 ## Beyond the models
 
 - **AI Engineer, Novera** — AI-powered photo matching with InsightFace and PostgreSQL; LLM integration, agentic workflows, and inference optimization.
