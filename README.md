@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/portfolio-hero.png" alt="Amen Allah Youssef portfolio" width="100%" />
-</p>
 
 <h1 align="center">Amen Allah Youssef</h1>
 
